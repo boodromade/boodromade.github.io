@@ -1,0 +1,1 @@
+import{Aa as r,la as a,xa as n,ya as o}from"./chunk-DX3HQTC3.js";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=a({type:t,selectors:[["app-header"]],decls:2,vars:0,template:function(e,p){e&1&&(n(0,"p"),r(1,"header works!"),o())},encapsulation:2})};export{s as Header};

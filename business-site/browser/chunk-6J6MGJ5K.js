@@ -1,0 +1,1 @@
+import{Aa as s,la as o,xa as n,ya as r}from"./chunk-DX3HQTC3.js";var a=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-footer"]],decls:2,vars:0,template:function(e,p){e&1&&(n(0,"p"),s(1,"footer works!"),r())},encapsulation:2})};export{a as Footer};
